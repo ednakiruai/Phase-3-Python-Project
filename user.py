@@ -11,6 +11,7 @@ from parent import Parent
 
 
 def user():
+    print("Welcome to the Wales Student Management System")
     print("1. Add Student")
     print("2. Add Course")
     print("3. Add Fee")
